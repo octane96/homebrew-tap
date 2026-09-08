@@ -8,6 +8,7 @@ cask "chatgpt-profile-manager" do
   homepage "https://github.com/octane96/ChatGPT-Profile-Manager-for-Mac"
 
   depends_on macos: :sonoma
+  depends_on arch: :arm64
 
   app "ChatGPT Profile Manager.app"
 end
