@@ -1,6 +1,6 @@
 cask "chatgpt-profile-manager" do
-  version "1.0.0"
-  sha256 "4461d1514e0002551462d0f2ffb712331d86fa29828442906088dda449f30442"
+  version "1.1.1"
+  sha256 "dae35a4cdeb9f5ec44162f0e3249b388be31e6c0129a8c589e305e3ca68ed103"
 
   url "https://github.com/octane96/ChatGPT-Profile-Manager-for-Mac/releases/download/v#{version}/ChatGPT-Profile-Manager-macOS.zip"
   name "ChatGPT Profile Manager"
